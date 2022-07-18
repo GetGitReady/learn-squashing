@@ -6,3 +6,9 @@
 - Squashing helps in creating patches
 - Squashing helps in rebasing
 
+## How to squash commits
+
+### Visual studio
+
+### Source Tree
+
