@@ -14,4 +14,8 @@
 - Clone the repo using the command `git clone https://github.com/GetGitReady/learn-squashing.git`
 - Open the repo in Source Tree
 ![image](source-tree-open.png)
+- Check out branch `feature-x`
+- Rebase commits of `feature-x`
+![image](source-tree-squashing.png)
+
 
