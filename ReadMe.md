@@ -15,7 +15,7 @@
 - Check out branch `feature-x`
 ![image](vs-checkout-branch.gif)
 - Squash commits of `feature-x`
-![image](tobedone.gif)
+![image](vs-squash-commits.gif)
 
 ### Source Tree
 - Clone the repo using the command `git clone https://github.com/GetGitReady/learn-squashing.git`
