@@ -16,6 +16,6 @@
 ![image](source-tree-open.png)
 - Check out branch `feature-x`
 - Rebase commits of `feature-x`
-![image](source-tree-squashing.png)
+![image](source-tree-squashing.gif)
 
 
