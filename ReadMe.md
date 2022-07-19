@@ -11,9 +11,7 @@
 ### Visual studio
 
 ### Source Tree
-
-
-### Command Prompt
-- It is possible to squash using command prompt and text editor
-- It is complicated, and not covered in this
+- Clone the repo using the command `git clone https://github.com/GetGitReady/learn-squashing.git`
+- Open the repo in Source Tree
+![image](source-tree-open.png)
 
