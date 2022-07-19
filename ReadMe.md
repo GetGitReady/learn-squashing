@@ -15,6 +15,7 @@
 - Open the repo in Source Tree
 ![image](source-tree-open.png)
 - Check out branch `feature-x`
+![image](checkout-branch.gif)
 - Rebase commits of `feature-x`
 ![image](source-tree-squashing.gif)
 
